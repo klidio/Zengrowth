@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Zengrowth/static/css/main.2818a858.chunk.css",
+    "main.js": "/Zengrowth/static/js/main.ad3dddcf.chunk.js",
+    "main.js.map": "/Zengrowth/static/js/main.ad3dddcf.chunk.js.map",
+    "runtime-main.js": "/Zengrowth/static/js/runtime-main.a4dd888b.js",
+    "runtime-main.js.map": "/Zengrowth/static/js/runtime-main.a4dd888b.js.map",
+    "static/css/2.71333d8d.chunk.css": "/Zengrowth/static/css/2.71333d8d.chunk.css",
+    "static/js/2.7d26a76a.chunk.js": "/Zengrowth/static/js/2.7d26a76a.chunk.js",
+    "static/js/2.7d26a76a.chunk.js.map": "/Zengrowth/static/js/2.7d26a76a.chunk.js.map",
+    "static/js/3.109503e8.chunk.js": "/Zengrowth/static/js/3.109503e8.chunk.js",
+    "static/js/3.109503e8.chunk.js.map": "/Zengrowth/static/js/3.109503e8.chunk.js.map",
+    "index.html": "/Zengrowth/index.html",
+    "static/css/2.71333d8d.chunk.css.map": "/Zengrowth/static/css/2.71333d8d.chunk.css.map",
+    "static/css/main.2818a858.chunk.css.map": "/Zengrowth/static/css/main.2818a858.chunk.css.map",
+    "static/js/2.7d26a76a.chunk.js.LICENSE.txt": "/Zengrowth/static/js/2.7d26a76a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a4dd888b.js",
+    "static/css/2.71333d8d.chunk.css",
+    "static/js/2.7d26a76a.chunk.js",
+    "static/css/main.2818a858.chunk.css",
+    "static/js/main.ad3dddcf.chunk.js"
+  ]
+}
